@@ -48,10 +48,10 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 
 ---
 
-## 🖼️ **Dashboard Preview**
+## 🎥 **Interactive Demo**
 
-![Dashboard Screenshot](./![dashboard](https://github.com/user-attachments/assets/1169e1a9-2cd6-42e6-a264-433e3d872b4c)
-.png)  
+![Demo](./![part 1](https://github.com/user-attachments/assets/6d4b7f6f-4140-4b27-b6e0-52d5879d4bac)
+.gif)
 
 
 ---
