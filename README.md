@@ -2,7 +2,7 @@
 
 This repository contains an **interactive Power BI dashboard** for analyzing mobile sales data across multiple smartphone brands, cities, and payment methods. This project demonstrates data visualization, trend analysis, and clean dashboard design using Power BI.
 
----
+
 
 ## **Features**
 
@@ -25,7 +25,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
   - Brand filter
   - Payment method filter
 
----
+
 
 ## **Project Files**
 
@@ -33,7 +33,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 - [📈 **Mobile_Sales_Data.xlsx**](./Mobile_Sales_Data.xlsx) — Excel data source used in this project.
 
 
----
+
 
 ## **How to Use**
 
@@ -44,7 +44,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
    - Hover on charts for details.
    - Click visuals to cross-filter data.
 
----
+
 
 ## **Key Insights**
 
@@ -54,28 +54,28 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 - ⭐ **High Customer Ratings:** Majority ratings are 4 or 5 stars.
 - 📈 **Weekly Trends:** Certain weekdays outperform others in sales.
 
----
+
 
 ## **Interactive Demo_1**
 
 ![Demo](./![part 1](https://github.com/user-attachments/assets/6d4b7f6f-4140-4b27-b6e0-52d5879d4bac)
 .gif)
 
----
+
 
 ## **Interactive Demo_2**
 
 ![Demo](./![part 2](https://github.com/user-attachments/assets/5f1f86a7-38bb-4732-86e4-631fef8d193b)
 .gif)
 
----
+
 
 ## **Interactive Demo_3**
 
 ![Demo](./![part 3](https://github.com/user-attachments/assets/2c20fb85-49b2-43dc-b99f-8e6ef6c3c553)
 .gif)
 
----
+
 
 ## **Dashboard Preview**
 
@@ -87,23 +87,23 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 This project showcases my ability to create clear, interactive, and informative dashboards for business data analysis using Power BI.  
 Feel free to explore, learn, or fork this repo!
 
----
+
 
 ## **Resources**
 
 - 📥 [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 - 📚 [Power BI Learning Path](https://learn.microsoft.com/en-us/power-bi/fundamentals/)
 
----
+
 
 ## **Author**
 
 **Created by Prajwal Nandkishor Sapkal**
 
----
+
 
 ## **License**
 
 This project is licensed under the **MIT License** — feel free to use and adapt it, with proper credit.
 
----
+
