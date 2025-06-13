@@ -29,8 +29,9 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 
 ## 📂 **Project Files**
 
-- ✅ **Mobile_Sales_Dashboard.pbix** — Power BI file with the interactive dashboard.
-- 📊 **Mobile Sales Data.xlsx** — raw sales data used as the data source.
+- [📊 **Mobile_Sales_Dashboard.pbix**](./Mobile_Sales_Dashboard.pbix) — Interactive Power BI dashboard.
+- [📈 **Mobile_Sales_Data.xlsx**](./Mobile_Sales_Data.xlsx) — Excel data source used in this project.
+
 
 ---
 
