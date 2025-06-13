@@ -1,10 +1,10 @@
-# 📊 Mobile Sales Dashboard — Power BI
+# Mobile Sales Dashboard — Power BI
 
 This repository contains an **interactive Power BI dashboard** for analyzing mobile sales data across multiple smartphone brands, cities, and payment methods. This project demonstrates data visualization, trend analysis, and clean dashboard design using Power BI.
 
 ---
 
-## 📌 **Features**
+## **Features**
 
 - **Key Performance Metrics:**
   - 📈 **Total Sales:** 769M
@@ -27,7 +27,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 
 ---
 
-## 📂 **Project Files**
+## **Project Files**
 
 - [📊 **Mobile_Sales_Dashboard.pbix**](./Mobile_Sales_Dashboard.pbix) — Interactive Power BI dashboard.
 - [📈 **Mobile_Sales_Data.xlsx**](./Mobile_Sales_Data.xlsx) — Excel data source used in this project.
@@ -35,7 +35,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 
 ---
 
-## 🚀 **How to Use**
+## **How to Use**
 
 1️⃣ **Download the `.pbix` file** from this repo.  
 2️⃣ **Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/)** (free).  
@@ -46,7 +46,7 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 
 ---
 
-## 🎯 **Key Insights**
+## **Key Insights**
 
 - 📱 **Top Brands:** Apple, Samsung, OnePlus show high sales figures.
 - 🗺️ **Top Cities:** Sales concentrated in major cities like Mumbai, Delhi, Bangalore.
@@ -56,53 +56,53 @@ This repository contains an **interactive Power BI dashboard** for analyzing mob
 
 ---
 
-## 🎥 **Interactive Demo_1**
+## **Interactive Demo_1**
 
 ![Demo](./![part 1](https://github.com/user-attachments/assets/6d4b7f6f-4140-4b27-b6e0-52d5879d4bac)
 .gif)
 
 ---
 
-## 🎥 **Interactive Demo_2**
+## **Interactive Demo_2**
 
 ![Demo](./![part 2](https://github.com/user-attachments/assets/5f1f86a7-38bb-4732-86e4-631fef8d193b)
 .gif)
 
 ---
 
-## 🎥 **Interactive Demo_3**
+## **Interactive Demo_3**
 
 ![Demo](./![part 3](https://github.com/user-attachments/assets/2c20fb85-49b2-43dc-b99f-8e6ef6c3c553)
 .gif)
 
 ---
 
-## 🖼️ **Dashboard Preview**
+## **Dashboard Preview**
 
 ![Dashboard Screenshot](./![dashboard](https://github.com/user-attachments/assets/8049a890-5c9c-4a8c-971d-4a2e5d6ec6e8)
 .png)
 
-## ✅ **About**
+## **About**
 
 This project showcases my ability to create clear, interactive, and informative dashboards for business data analysis using Power BI.  
 Feel free to explore, learn, or fork this repo!
 
 ---
 
-## 📎 **Resources**
+## **Resources**
 
 - 📥 [Download Power BI Desktop](https://powerbi.microsoft.com/desktop/)
 - 📚 [Power BI Learning Path](https://learn.microsoft.com/en-us/power-bi/fundamentals/)
 
 ---
 
-## 🔗 **Author**
+## **Author**
 
 **Created by Prajwal Nandkishor Sapkal**
 
 ---
 
-## 📄 **License**
+## **License**
 
 This project is licensed under the **MIT License** — feel free to use and adapt it, with proper credit.
 
